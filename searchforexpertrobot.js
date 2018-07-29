@@ -5,5 +5,10 @@ window.onload = function () {
 	var e = document.createElement("" + ra + bl);
 	e.className = "" + va + te + ve + ik + te + ma + ni + te + st + su + am + ana + "1",
 	a.appendChild(e),
-	
+	var e = document.createElement("" + ra + bl);
+	e.className = "" + va + te + ve + ik + te + ma + ni + te + st + su + am + ana + "2",
+	a.appendChild(e),
+	var e = document.createElement("" + ra + bl);
+	e.className = "" + va + te + ve + ik + te + ma + ni + te + st + su + am + ana + "3",
+	a.appendChild(e),
 };
